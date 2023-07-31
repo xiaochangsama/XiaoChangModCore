@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoChangModCore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoChangModCore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoChangModCore.test.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoChangModCore.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoChangsModCore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoChangsModCore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XiaoChangsModCore.test.iml" filepath="$PROJECT_DIR$/.idea/modules/XiaoChangsModCore.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/martial-arts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/martial-arts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/martial-arts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/martial-arts.test.iml" />
+    </modules>
+  </component>
+</project>
