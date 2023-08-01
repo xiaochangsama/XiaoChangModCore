@@ -6,6 +6,9 @@ copied below.
 Homepage: http://minecraftforge.net/
           https://github.com/MinecraftForge/MinecraftForge
           
+对国内的国人开发者：
+本模组采用LGPL 2.1开源协议，在任何包含本源代码关系以外的调用和联动模组功能的时候，
+允许闭源项目，一旦包含本模组源码，则必须开源项目。
 
 A note on authorship:
 All source artifacts are property of their original author, with

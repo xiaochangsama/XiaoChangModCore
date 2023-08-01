@@ -2296,6 +2296,7 @@
       <change afterPath="$PROJECT_DIR$/build/_compileJava_6/net/minecraft/commands/synchronization/ArgumentTypeInfo$Template.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/_compileJava_6/net/minecraft/commands/synchronization/ArgumentTypeInfo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/_compileJava_6/net/minecraft/commands/synchronization/ArgumentTypeInfos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-07-31-37.log.gz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
